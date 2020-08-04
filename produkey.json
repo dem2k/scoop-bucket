@@ -1,0 +1,21 @@
+{
+    "homepage": "https://www.nirsoft.net/utils/product_cd_key_viewer.html",
+    "checkver": "ProduKey v([\\d.]+)",
+    "version": "1.93",
+    "license": "freeware",
+    "description": "Recover lost Windows product key (CD-Key) and Office 2003/2007 product key",
+    "architecture": {
+        "64bit": {
+            "url": "https://www.nirsoft.net/utils/produkey-x64.zip",
+            "hash": "5cdee85699d07a334e4c0e319ce6b7d429221a5c4c465b22c427512358b99349"
+        }
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://www.nirsoft.net/utils/produkey-x64.zip"
+            }
+        }
+    },
+    "bin": "ProduKey.exe"
+}
