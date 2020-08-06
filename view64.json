@@ -1,0 +1,13 @@
+{
+    "homepage": "https://wincmd.ru/plugring/view64.html",
+    "version": "1.49",
+    "license": "freeware",
+    "description": "File viewer",
+    "architecture": {
+        "32bit": {
+            "url": "http://deminator.de/scoop/View64-1.49.7z",
+            "hash": "3577732a9e279f49a6c7dfb076c69b3fc7562098e1646b38ed5300d8a2a99a40"
+        }
+    },
+    "bin": "view64.exe"
+}
