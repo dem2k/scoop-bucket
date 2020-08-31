@@ -6,5 +6,5 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [View64](https://wincmd.ru/plugring/view64.html)                     | 1.49 |  | freeware |
-| [ProduKey](https://www.nirsoft.net/utils/product_cd_key_viewer.html) | 1.93 |  | freeware |
+| [View64](https://wincmd.ru/plugring/view64.html)                     | 1.49 | One of the best Fileviewer. | freeware |
+| [ProduKey](https://www.nirsoft.net/utils/product_cd_key_viewer.html) | 1.93 | Recover lost Windows product key (CD-Key) and Office 2003/2007 product key.  | freeware |
