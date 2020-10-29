@@ -7,4 +7,3 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [View64](https://wincmd.ru/plugring/view64.html)                     | 1.49  | One of the best Fileviewer. Install with "**-a 32bit**"-Option! | freeware |
-| [cpdf](http://community.coherentpdf.com/)                            | 2.3.1 | Powerful PDF manipulation tool | freeware |
