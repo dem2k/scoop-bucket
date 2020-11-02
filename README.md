@@ -5,5 +5,5 @@
 ## Apps in this bucket
 
 | Name                                             | Version | Description                 | License  |
-| :---                                             | :---    | :---                        | :---     |
-| [View64](https://wincmd.ru/plugring/view64.html) | 1.49    | One of the best Fileviewer. | freeware |
+|--------------------------------------------------|---------|-----------------------------|----------|
+| [View64](https://wincmd.ru/plugring/view64.html) | 1.49    | One of the best Fileviewer  | freeware |
