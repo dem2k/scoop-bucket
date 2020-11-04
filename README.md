@@ -7,3 +7,4 @@
 | Name                                             | Version | Description                 | License  |
 |--------------------------------------------------|---------|-----------------------------|----------|
 | [View64](https://wincmd.ru/plugring/view64.html) | 1.49    | One of the best Fileviewer  | freeware |
+| [DasViewer](https://github.com/dem2k/DasViewer)  | 1.0     | DAS-Format Fileviewer       | freeware |
