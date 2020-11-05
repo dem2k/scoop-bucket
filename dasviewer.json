@@ -5,5 +5,11 @@
     "description": "DAS-Format Fileviewer",
     "url": "https://github.com/dem2k/DasViewer/releases/download/v1/DasViewer.zip",
     "hash": "e9ebcbfd7bb019fc71b0e1e771099eb2c89d320b354a1d03c487724ecec08249",
-    "bin": "bin/DasViewer.bat"
+    "bin": "bin/DasViewer.bat",
+    "shortcuts": [
+        [
+            "bin/DasViewer.bat",
+            "DAS-Format FileViewer"
+        ]
+    ]
 }
