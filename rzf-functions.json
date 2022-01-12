@@ -1,10 +1,10 @@
 {
     "homepage": "https://github.com/dem2k/rzf-functions",
-    "version": "0.2.2",
+    "version": "0.3.1",
     "license": "freeware",
     "description": "posh module with some function for private usage.",
-    "url": "https://github.com/dem2k/rzf-functions/releases/download/v0.2.2/rzf-functions.zip",
-    "hash": "c081dc949c5f0c5f88335c5c0f89bdfe6e7f550817c4e45365bab4d6532121d0",
+    "url": "https://github.com/dem2k/rzf-functions/releases/download/v0.3.1/rzf-functions.zip",
+    "hash": "68291f1afc5c104a64fe3fbb951b2a4eb23cc304030e486cdaf8fbd849ebfdff",
     "psmodule": {
         "name": "rzf-functions"
     },
