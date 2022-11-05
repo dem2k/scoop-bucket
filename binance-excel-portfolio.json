@@ -5,5 +5,6 @@
     "description": "get orders to excelfile",
     "url": "https://github.com/dem2k/binance-excel-portfolio/releases/download/latest/binance-excel-portfolio-0.1.1.jar",
     "hash": "66dbb22743cc754621b5c87f90f7e2c6785c20727b309210819061a2238d51b5",
+    "persist": "data",
     "checkver": "github"
 }
