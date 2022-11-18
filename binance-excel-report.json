@@ -1,0 +1,22 @@
+{
+	"homepage": "https://github.com/dem2k/binance-excel-report",
+	"version": "0.1.1",
+	"license": "freeware",
+	"description": "get orders to excelfile",
+	"url": "https://github.com/dem2k/binance-excel-report/releases/download/v0.1.1/binance-excel-report.zip",
+	"hash": "34dd2cd2556a1c4bd7df58bc0a2d3f581adf9153f56218e7951cfad7279719f9",
+	"persist": "config",
+
+    "post_install": "\"ca_certificate=$(appdir cacert $global)\\current\\cacert.pem\" | out-file \"$dir\\wget.ini\" -encoding default",
+
+	"post_install": [
+        "# Set npm prefix to install modules inside bin and npm cache so they persist",
+        "Set-Content -Value \"prefix=$persist_dir\\bin`ncache=$persist_dir\\cache\" -Path \"$dir\\node_modules\\npm\\npmrc\""
+    ],
+  
+  "bin": "binance-excel-report.bat",
+	"checkver": "github",
+	"autoupdate": {
+		"url": "https://github.com/dem2k/binance-excel-report/releases/download/v$version/binance-excel-report.zip"
+	}
+}
