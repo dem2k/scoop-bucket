@@ -1,8 +1,8 @@
 {
     "homepage": "https://github.com/dem2k/binance-excel-report",
-    "version": "0.1.1",
-    "license": "freeware",
     "description": "Collects executed orders from binance and saves them in an excel spreadsheet.",
+    "license": "freeware",
+    "version": "0.1.1",
     "url": "https://github.com/dem2k/binance-excel-report/releases/download/v0.1.1/binance-excel-report.zip",
     "hash": "34dd2cd2556a1c4bd7df58bc0a2d3f581adf9153f56218e7951cfad7279719f9",
     "persist": "config",
