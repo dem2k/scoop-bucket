@@ -6,7 +6,6 @@
     "url": "https://github.com/dem2k/binance-excel-report/releases/download/v0.1.2/binance-excel-report.zip",
     "hash": "787f9895305c8ad6e11b5bf101bfe8d38ffef37ffd4894a13311ad1d27286ba1",
     "persist": "config",
-    "post_install": "\"@SET BINANCE_APIKEY=XXXXXXXYOURAPIKEYXXXXXXX`n@SET BINANCE_SECRET=XXXXXXYOURAPISECRETXXXXX\" | out-file $persist_dir/config/properties.bat -Encoding ascii",
     "bin": "binance-excel-report.bat",
     "checkver": "github",
     "autoupdate": {
