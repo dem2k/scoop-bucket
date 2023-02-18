@@ -2,6 +2,10 @@
 
 `scoop bucket add dem2k https://github.com/dem2k/scoop-bucket`
 
+## How to install Scoop
+
+https://www.youtube.com/watch?v=V0uHz7otS8I
+
 ## Apps in this bucket
 
 | Name                                                                   | Description                                                                   |
